@@ -1,0 +1,8 @@
+Tagged C++ Unit Testing framework, trimmed down version.
+
+This is a C++ Unit testing Framework developed at Tagged
+for testing our C++ source code. It is trimmed to have
+less dependencies than the version present in the STIG
+source repository.
+
+This code is licensed under the Apache 2.0 license.
